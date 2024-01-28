@@ -9,9 +9,6 @@
 # "J-J" ➞ "J"
 # Notes a hyphen will separate the two letters in the string.
 
-alphabet = "abcdefghijklmnopqrstuvwxyz"
-
-user_range = input("Enter a range of letters (e.g., a-z): ")
 
 alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
